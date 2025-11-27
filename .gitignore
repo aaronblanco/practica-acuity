@@ -1,0 +1,12 @@
+# Ignorar datos
+*.csv
+*.xlsx
+data/
+
+# Ignorar archivos del sistema y entorno
+__pycache__/
+.DS_Store
+.env
+.ipynb_checkpoints/
+venv/
+env/
